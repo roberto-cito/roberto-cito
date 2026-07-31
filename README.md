@@ -1,5 +1,5 @@
 <h1 align="center">Roberto Cito</h1>
-<h3 align="center">Full Stack Developer | Cybersecurity Enthusiast</h3>
+<h3 align="center">Sviluppatore Full Stack | Appassionato di Cybersicurezza</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/roberto-cito/" target="_blank">
@@ -12,15 +12,15 @@
 
 ---
 
-### About Me
-I am a Computer Science student at the University of Salerno and currently work as the IT Manager and Software Developer at Olimpiadi della Cultura e del Talento (OCT). My professional focus is on designing and developing highly scalable, multi-tenant software architectures and full-stack applications.
+### Chi Sono
+Sono uno studente di Informatica presso l'Università degli Studi di Salerno e attualmente ricopro il ruolo di Responsabile IT e Software Developer alle Olimpiadi della Cultura e del Talento (OCT). Il mio focus professionale si concentra sulla progettazione e sviluppo di architetture software altamente scalabili, piattaforme multi-tenant e applicazioni full-stack.
 
-My goal is to build pioneering software solutions, transforming complex technical challenges into next-generation technological products.
+Il mio obiettivo è lavorare allo sviluppo di soluzioni software pionieristiche, trasformando idee e sfide tecniche complesse in prodotti tecnologici di ultima generazione.
 
-### Tech Stack & Core Competencies
+### Tech Stack e Competenze Principali
 
-**Backend & API Development**<br>
-I specialize in building robust backend services, primarily utilizing Java and Spring Boot. My experience includes designing REST APIs, microservices, and secure voting systems capable of handling significant traffic spikes. 
+**Sviluppo Backend & API**<br>
+Sono specializzato nella creazione di servizi backend robusti, utilizzando principalmente Java e Spring Boot. La mia esperienza include la progettazione di API REST, microservizi e sistemi di votazione sicuri, capaci di gestire significativi picchi di traffico.
 <br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -30,8 +30,8 @@ I specialize in building robust backend services, primarily utilizing Java and S
 
 <br>
 
-**Frontend & Desktop Applications**<br>
-I develop responsive web interfaces and cross-platform desktop applications tailored for real-time data management and interactive user experiences.
+**Sviluppo Frontend & Applicazioni Desktop**<br>
+Sviluppo interfacce web responsive e applicazioni desktop cross-platform, ideate per la gestione dei dati in tempo reale e per offrire un'esperienza utente interattiva.
 <br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -41,8 +41,8 @@ I develop responsive web interfaces and cross-platform desktop applications tail
 
 <br>
 
-**DevOps, Infrastructure & Database**<br>
-I have practical experience in containerization and orchestrating deployments for high-availability environments.
+**DevOps, Infrastruttura & Database**<br>
+Ho esperienza pratica nella containerizzazione e nell'orchestrazione dei rilasci per ambienti ad alta disponibilità.
 <br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -50,23 +50,15 @@ I have practical experience in containerization and orchestrating deployments fo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Interests & Passions
-Beyond software development, my core interests dive deep into the broader tech ecosystem:
-- **Cybersecurity & Ethical Hacking:** I actively explore network security and ethical hacking methodologies, driven by my participation in the Italian Cybersicurezza Olympics.
-- **Linux & Open Source:** A strong advocate for open-source software and navigating Linux-based environments.
-- **Hardware & PC Building:** I enjoy the hands-on aspect of computing, from understanding component architectures to assembling custom hardware builds.
-- **Motorsport & Formula 1:** A huge fan of Formula 1, appreciating the pinnacle of automotive engineering and data-driven strategy.
-
-### Highlighted Projects
-- **OCTQuiz:** An interactive quiz platform built with Java, Spring Boot, and Kubernetes, designed to automatically scale during live national semifinals.
-- **ModuLink:** A modular, multi-tenant SaaS platform built with Java & Spring Boot for seamless business process integration.
-- **Caccia al Tesoro V2:** A scalable Java web application managing simultaneous national treasure hunts with real-time location and team synchronization.
-- **OCTHome:** A real-time digital hub integrating a Telegram support bot via Node.js, Python, and React.
-- **Sistema di Votazione (V3):** Core web application for secure, real-time vote processing from both technical and popular juries.
+### Interessi e Passioni
+Oltre allo sviluppo software, i miei interessi esplorano l'ecosistema tecnologico a 360 gradi:
+- **Cybersicurezza ed Ethical Hacking:** Analizzo ed esploro attivamente le metodologie di sicurezza delle reti e l'ethical hacking, passione consolidata anche dalla partecipazione alle Olimpiadi di Cybersicurezza.
+- **Linux e Open Source:** Sostenitore del software open-source e dell'utilizzo di ambienti basati su Linux.
+- **Hardware e PC Building:** Apprezzo l'aspetto "hands-on" dell'informatica, dalla comprensione dell'architettura dei componenti fino all'assemblaggio di PC.
+- **Motori e Formula 1:** Grande appassionato di F1, di cui apprezzo l'eccellenza dell'ingegneria automobilistica e le strategie basate sull'analisi dei dati.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RMChannel&show_icons=true&theme=radical" alt="Roberto's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMChannel&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/RMChannel/RMChannel/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
