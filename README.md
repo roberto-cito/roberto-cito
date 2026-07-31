@@ -63,6 +63,5 @@ Oltre allo sviluppo software, i miei interessi esplorano l'ecosistema tecnologic
 ---
 
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="48%" />
-  <img src="github-languages.svg" alt="GitHub Languages" width="48%" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
