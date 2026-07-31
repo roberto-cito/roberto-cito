@@ -1,9 +1,12 @@
 <h1 align="center">Roberto Cito</h1>
-<h3 align="center">Sviluppatore Full Stack | Appassionato di Cybersicurezza</h3>
+<h3 align="center">Sviluppatore Full Stack | IT Manager @ OCT</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/roberto-cito/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/cito.roberto.04/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:roberto.cito.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -13,7 +16,7 @@
 ---
 
 ### Chi Sono
-Sono uno studente di Informatica presso l'Università degli Studi di Salerno e attualmente ricopro il ruolo di Responsabile IT e Software Developer alle Olimpiadi della Cultura e del Talento (OCT). Il mio focus professionale si concentra sulla progettazione e sviluppo di architetture software altamente scalabili, piattaforme multi-tenant e applicazioni full-stack.
+Sono uno studente di Informatica presso l'Università degli Studi di Salerno e attualmente ricopro il ruolo di Responsabile IT delle Olimpiadi della Cultura e del Talento (OCT). Il mio focus professionale si concentra sulla progettazione e sviluppo di architetture software altamente scalabili, piattaforme multi-tenant e applicazioni full-stack.
 
 Il mio obiettivo è lavorare allo sviluppo di soluzioni software pionieristiche, trasformando idee e sfide tecniche complesse in prodotti tecnologici di ultima generazione.
 
