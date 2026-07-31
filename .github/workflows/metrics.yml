@@ -14,8 +14,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Utilizza il token standard di GitHub (non c'è bisogno di configurare nulla)
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Devi creare un Personal Access Token e salvarlo nei Secrets della repository come METRICS_TOKEN
+          token: ${{ secrets.METRICS_TOKEN }}
           
           # Opzioni base
           user: RMChannel

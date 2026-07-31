@@ -60,5 +60,5 @@ Oltre allo sviluppo software, i miei interessi esplorano l'ecosistema tecnologic
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RMChannel/RMChannel/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
