@@ -12,18 +12,24 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Genera Statistiche Generali
+        uses: lowlighter/metrics@latest
         with:
-          # Devi creare un Personal Access Token e salvarlo nei Secrets della repository come METRICS_TOKEN
+          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          
-          # Opzioni base
           user: RMChannel
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Rome
-          
-          # Plugin per le Lingue
+
+      - name: Genera Statistiche Linguaggi
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: RMChannel
+          template: classic
+          base: ""
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_limit: 8
